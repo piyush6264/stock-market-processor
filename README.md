@@ -1,4 +1,6 @@
+## Project Structure
 
+```text
 stock_analysis/
 ├── stock_analysis.py # Main analysis script
 ├── data/ 
